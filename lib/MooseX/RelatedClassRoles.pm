@@ -1,5 +1,5 @@
 package MooseX::RelatedClassRoles;
-our $VERSION = '0.003';
+our $VERSION = '0.004';
 
 # ABSTRACT: Apply roles to a class related to yours
 use MooseX::Role::Parameterized;
@@ -62,7 +62,7 @@ MooseX::RelatedClassRoles - Apply roles to a class related to yours
 
 =head1 VERSION
 
-version 0.003
+version 0.004
 
 =head1 SYNOPSIS
 
